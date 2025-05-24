@@ -1,4 +1,3 @@
-# Multiple_Linear_Regression-on-Economic-Data
 # 📊 Multiple Linear Regression on Economics Dataset
 
 This project applies **Multiple Linear Regression** to an economics dataset to model the relationship between two independent variables (`interest_rate` and `unemployment_rate`) and a target variable (`index_price`), which is uniformly distributed.
